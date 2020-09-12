@@ -1,5 +1,6 @@
 ### Hi there, I'm Ashok 👋
 
+<img src="https://github-readme-stats.vercel.app/api?username=ashoksrinivasan96&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 - 🔭 I’m currently working on **making a website for a Restaurant**
 - 🌱 I’m currently learning **React**
@@ -12,17 +13,4 @@
 - 📫 Email: ashoksrinivasan96@gmail.com
 - 📱 Phone: +91-8447878035
 
-<!--
-**ashoksrinivasan96/ashoksrinivasan96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check out [My LinkedIn](linkedin.com/in/ashok-srinivasan-g) for more information.

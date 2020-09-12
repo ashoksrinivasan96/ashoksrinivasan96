@@ -12,5 +12,3 @@
 - ⚡ Fun fact: I am a **voice artiste** since the past 10 years, having delivered over 50 projects.
 - 📫 Email: ashoksrinivasan96@gmail.com
 - 📱 Phone: +91-8447878035
-
-Check out [My LinkedIn](linkedin.com/in/ashok-srinivasan-g) for more information.

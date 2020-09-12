@@ -1,10 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Ashok 👋
 
-- 🔭 I’m currently working on **making a website for a Restaurant
-- 🌱 I’m currently learning **React
-- 👯 I’m looking to collaborate on **Open Source Projects
-- 🤔 I’m looking for help with **Machine Learning & Tensorflow
-- 💬 Ask me about **ideas and solutions to existing problems
+
+- 🔭 I’m currently working on **making a website for a Restaurant**
+- 🌱 I’m currently learning **React**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 🤔 I’m looking for help with **Machine Learning & Tensorflow**
+- 💬 Ask me about **ideas and solutions to existing problems**
 
 - 😄 Hobbies: Playing Dota, reading about history, making comics and catching up on news.
 - ⚡ Fun fact: I am a **voice artiste** since the past 10 years, having delivered over 50 projects.

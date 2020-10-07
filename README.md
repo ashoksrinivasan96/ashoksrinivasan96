@@ -7,7 +7,7 @@
 - 🌱  I’m currently learning **Python**
 - 👯  I’m looking to collaborate on **Open Source Projects**
 - 🤔  I’m looking for help with **Machine Learning & Tensorflow**
-- 💬  Ask me about **ideas and solutions to existing problems**
+- 💬  Ask me about **ideas and solutions to any existing problems**
 
 - 😄  Hobbies: Playing Dota, reading about history, making comics and catching up on news.
 - ⚡  Fun fact: I am a **voice artiste** since the past 10 years, having delivered over 50 projects.

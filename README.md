@@ -2,7 +2,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=ashoksrinivasan96&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-- 🔭  I’m currently working on **making my Personal mobile application**
+- 🔭  I’m currently working on **making my Personal Mobile Application**
 - 👍  I've recently finished working on **a Star selection game with Reactjs**
 - 🌱  I’m currently learning **React Native**
 - 👯  I’m looking to collaborate on **Open Source Projects**

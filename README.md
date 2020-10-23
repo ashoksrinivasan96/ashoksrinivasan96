@@ -4,7 +4,7 @@
 
 - 🔭  I’m currently working on **making my Personal Mobile Application**
 - 👍  I've recently finished working on **a Star selection game with Reactjs**
-- 🌱  I’m currently learning **React Native**
+- 🌱  I’m currently learning **React-Native**
 - 👯  I’m looking to collaborate on **Open Source Projects**
 - 🤔  I’m looking for help with **my Personal Project**
 - 💬  Ask me about **ideas and solutions to any existing problems**

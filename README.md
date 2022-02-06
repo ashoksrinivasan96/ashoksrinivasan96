@@ -2,8 +2,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=ashoksrinivasan96&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-- 🔭  I’m currently working on **Improving my coding skills**
-- 👍  I've recently finished working on **a Star selection game with Reactjs**
+- 🔭  I’m currently working on **Freelance Website Designing**
+- 👍  I've recently finished working on **a Client Project with Reactjs**
 - 🌱  I’m currently practicing **Data Structures and Algorithm**
 - 👯  I’m looking to collaborate on **Open Source Projects**
 - 🤔  I’m looking for **Job opportunities**
